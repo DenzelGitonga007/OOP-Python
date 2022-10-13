@@ -7,3 +7,7 @@ class Piglet:
 hamlet = Piglet()
 hamlet.name = "Hamlet"
 hamlet.speak()
+# Another instance of the class
+petunia = Piglet()
+petunia.name = "Petunia"
+petunia.speak()

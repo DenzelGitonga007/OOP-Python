@@ -7,3 +7,4 @@ class Piglet:
 hamlet = Piglet()
 # Call the object
 hamlet.speak()
+
